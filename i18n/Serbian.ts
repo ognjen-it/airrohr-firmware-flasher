@@ -20,7 +20,7 @@
     <message>
         <location filename="../airrohr-flasher.py" line="286"/>
         <source>Others...</source>
-        <translation>Ostali...</translation>
+        <translation>Ostalo...</translation>
     </message>
     <message>
         <location filename="../airrohr-flasher.py" line="576"/>
